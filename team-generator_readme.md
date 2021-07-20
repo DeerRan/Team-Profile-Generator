@@ -5,6 +5,7 @@
 - [team-generator_readme](#datatitle)
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
+- [WAlkthrough](#walkthrough-video)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
@@ -14,6 +15,8 @@
 - [License](#license)
 ## Description  
 This application is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.  
+## Walkthrough Video
+
 ## Installation
 Simply grab it off the Github, run "npm install" in the terminal, and run "node index.js".
 ## Usage
@@ -28,5 +31,3 @@ If there are questions, use this email to reach out Darren.Scott.0905@gmail.com
 Link to my GitHub profile: https://github.com/DeerRan
 ## License
 This project is covered by the Unlicense license.
-## References
-
