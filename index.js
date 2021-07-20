@@ -158,7 +158,7 @@ function generateCard(newEmployee) {
             break;
         case "Engineer":
             var emailLink = "https://github.com/" + newEmployee.github
-            special = `GitHub: <a href="${emailLink}">` + newEmployee.github + `</a>`
+            special = `GitHub: <a href="${emailLink}" target="_blank">` + newEmployee.github + `</a>`
             break;
     };
     
