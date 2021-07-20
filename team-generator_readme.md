@@ -16,8 +16,7 @@
 ## Description  
 This application is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.  
 ## Walkthrough Video
-https://user-images.githubusercontent.com/77216956/126373506-952ecf5b-edef-4e16-9204-2b7693c25400.mp4
-
+https://youtu.be/Sp60Zw37fSk
 ## Installation
 Simply grab it off the Github, run "npm install" in the terminal, and run "node index.js".
 ## Usage
