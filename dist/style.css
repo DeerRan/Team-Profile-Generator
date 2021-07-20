@@ -55,13 +55,14 @@
 }
 
 .infodiv {
-    height: 48px;
+    height: auto;
     display: flex;
     align-items: center;
     border-style: solid;
     border-width: 1px;
     border-color: rgb(158, 158, 158);
     background-color: white;
+    padding: 10px;
     padding-left: 5%;
 }
 
@@ -73,5 +74,10 @@
 
 a {
     text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
     color: black;
 }

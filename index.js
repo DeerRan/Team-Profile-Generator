@@ -133,7 +133,7 @@ function topHTML() {
         <div id='main' class='row justify-content-center'>
     `;
     //Takes the above text and throws it into an HTML
-    fs.writeFile("./dist", html, function(err) {
+    fs.writeFile("./dist/team.html", html, function(err) {
         if (err) {
             console.log(err)
         }
@@ -184,7 +184,7 @@ function generateCard(newEmployee) {
     </div>
 </div>
     `
-    fs.appendFile("./dist", cardHTML, function(err) {
+    fs.appendFile("./dist/team.html", cardHTML, function(err) {
         if (err) {
             console.log(err)
         }
@@ -212,7 +212,7 @@ function bottomHTML() {
 
 </html>
     `
-    fs.appendFile("./dist", html, function(err) {
+    fs.appendFile("./dist/team.html", html, function(err) {
         if (err) {
             console.log(err)
         }
