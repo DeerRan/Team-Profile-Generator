@@ -5,7 +5,7 @@
 - [team-generator_readme](#datatitle)
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
-- [WAlkthrough](#walkthrough-video)
+- [Walkthrough](#walkthrough-video)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
