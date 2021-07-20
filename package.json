@@ -1,0 +1,16 @@
+{
+    "name": "team-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Darren Scott",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.1.1",
+        "jest": "^27.0.5",
+        "fs": "0.0.1-security"
+    }
+}
